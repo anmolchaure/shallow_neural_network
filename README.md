@@ -1,6 +1,7 @@
 # shallow_neural_network
 
 Trainig one layer neural network and plotting accuracy and loss of training and validation datasets.
+
 STEP 1: Import all libraries essential for the model
 STEP 2: Generate random dataset using datasets from sklearn or upload availabe data from drive(applicable for google colab) or local machine
 STEP 3: Feature Scaling of dataset
