@@ -1,6 +1,6 @@
 # shallow_neural_network
 
-Trainig one layer neural network and plotting accuracy and loss of training and validation datasets.
+Training one layer neural network and plotting accuracy and loss of training and validation datasets.
 
 STEP 1: Import all libraries essential for the model
 
